@@ -3,3 +3,7 @@
 meu nome e Marcelo 
 
 - Estou estudando na Alura
+
+
+
+![](https://media.tenor.com/CwpwAPOJnJAAAAAj/ronaldo-siuuu.gif)
